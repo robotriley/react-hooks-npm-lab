@@ -4,7 +4,7 @@
   "description": "baby's first json package",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'Hello World!!'",
+    "test": "echo 'Hello World!'",
     "start": "serve"
   },
   "author": "",
